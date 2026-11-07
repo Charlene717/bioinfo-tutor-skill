@@ -1,0 +1,9 @@
+# ---- 系統雜物 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# ---- Python 執行期產物 ----
+__pycache__/
+*.pyc
